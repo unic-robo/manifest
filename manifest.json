@@ -1,0 +1,27 @@
+{
+	"name": "A manifest - 1010 rules of se live",
+	"author": "unic (too lazy to list our names, doe",
+	"homepage": "https://unic-robo.github.io/",
+	"description": "*name",
+	"version": "0.1 PRIA-Alpha",
+	"dependencies": {
+		"coffee": "a lot",
+		"internet": "fast",
+		"swobowo": "swoboda",
+	},
+	"content": {
+		"secret rule": 
+			"0. 1010 -> 10",
+		"rules" : [
+			"1. Don't panic.",
+			"2. DIY",
+			"3. It's not as bad as it seems.",
+			"4. IDA has right to 90% proved by IDA.",
+			"5. Y not 2 use DUCKTAPE?!",
+			"6. Comic Sans MS doesn't exist.",
+			"7. 2nd place isn't an option.",
+			"8. Act polish.",
+			"9. BE UNIC - don't ctrl + c & ctrl + v"
+		]
+	}
+}
